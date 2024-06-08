@@ -1,5 +1,5 @@
 <body>
-     <h1>Objetivo </h1>
+    <h1>Objetivo </h1>
     <h1>Índice de Proyectos</h1>
     <ul>
         <li><a href="#mnist-pytorch">MNIST con PyTorch</a></li>
@@ -60,7 +60,10 @@
             </tr>
         </tbody>
     </table>
+    <h1>Contacto </h1>
+    <div>
+    <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+    <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.tiktok.com" target="_blank"><i class="fab fa-tiktok"></i></a>
+</div>
 
-         <h1>Contacto </h1>
-
-</body>
