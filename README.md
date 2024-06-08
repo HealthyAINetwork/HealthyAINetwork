@@ -1,4 +1,5 @@
 <body>
+     <h1>Objetivo </h1>
     <h1>Índice de Proyectos</h1>
     <ul>
         <li><a href="#mnist-pytorch">MNIST con PyTorch</a></li>
@@ -59,4 +60,7 @@
             </tr>
         </tbody>
     </table>
+
+         <h1>Contacto </h1>
+
 </body>
